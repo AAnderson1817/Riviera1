@@ -146,7 +146,22 @@ ul.nav.navbar {
 .banner-w3text {
     text-align: center;
     padding: 19em 0;
+		-webkit-transition: all 1000ms linear;
+    -moz-transition: all 1000ms linear;
+    -ms-transition: all 1000ms linear;
+    -o-transition: all 1000ms linear;
+    transition: all 1000ms linear;
 }
+.banner-w3text.hidden {
+    -moz-opacity: 0;
+    opacity: 0;
+    -moz-transform: scale(0.01);
+    -webkit-transform: scale(0.01);
+    -o-transform: scale(0.01);
+    -ms-transform: scale(0.01);
+    transform: scale(0.01);
+}
+
 .banner-w3text #vertical-ticker {
     height: 80px;
     margin: 0;
@@ -154,11 +169,11 @@ ul.nav.navbar {
     list-style: none;
     overflow: hidden;
 }
-.banner-w3text #vertical-ticker li ,.banner-w3text h2{
+.banner-w3text h2{
     display: block;
     color: #fff;
     text-align: center;
-    font-size: 4.5em;
+    font-size: 7em;
     font-weight: 100;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 	text-transform: capitalize;
@@ -2736,3 +2751,5 @@ h3.agileits-title, h2.agileits-title {
 }
 }
 /*-- //responsive-design --*/
+
+/* BEM Reusable Helper Classes */
