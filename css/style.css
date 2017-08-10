@@ -63,6 +63,7 @@ body a:hover,body a:focus{
     margin-left: 12em;
 }
 .top-nav {
+	background-color:rgba(0,0,0,.25);
     z-index: 999;
     padding: 1.5em 0 1em;
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
@@ -88,13 +89,14 @@ ul.nav.navbar {
     font-size: 1.4em;
     color: #fff;
     position: relative;
-    font-weight: 300;
+    font-weight: 400;
     padding: 0;
     display: inline-block;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .nav > li > a:hover, .nav > li > a:focus {
-    background: none;
+    text-decoration:underline;
+		background:none;
 }
 .top-nav ul li a:hover, .top-nav ul li a.active {
     color: #5ac34a !important;
@@ -257,7 +259,7 @@ p{
     font-size: 2.2em;
     font-weight: 200;
     letter-spacing: 2px;
-    background: rgba(0, 0, 0, 0.69);
+    /*background: rgba(0, 0, 0, 0.69);*/
     display: inline-block;
     padding: 6px 12px;
     margin-top: 8%;
@@ -448,6 +450,7 @@ h3.agileits-title,h2.agileits-title{
 }
 .footer-grid  li a:hover {
     color: #17b9ea;
+		text-decoration:underline;
 }
 .footer-grid form {
     position: relative;
