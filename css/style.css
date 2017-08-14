@@ -435,6 +435,7 @@ h3.agileits-title,h2.agileits-title{
 .footer-agile {
     padding: 4em 0 3em;
     background:#191d22;
+		text-align:center;
 }
 .footer-top-agileinfo{
 	text-align:center;
@@ -452,9 +453,11 @@ h3.agileits-title,h2.agileits-title{
     letter-spacing: 2px;
 }
 .footer-grid li {
-    display: block;
+    display: inline-block;
     margin: 1em 0 0;
-	font-size:1em;
+	font-size:1.25em;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 .footer-grid  li a {
     color:#fff;
