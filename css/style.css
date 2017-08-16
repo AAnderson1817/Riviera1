@@ -33,6 +33,9 @@ body a:hover,body a:focus{
 	text-decoration:none;
 	outline: none;
 }
+img{
+	box-shadow: 5px 5px 6px 0px #D0D0E5;
+}
 /*-- banner --*/
 .agileits-banner {
 	background:url(../images/1.jpg)no-repeat center 0px;
@@ -230,8 +233,8 @@ ul.nav.navbar {
 	padding:5em 0;
 }
 p{
-	font-size:1em;
-	color:#999;
+	font-size:1.25em;
+	color:#5d5d5d;
 	line-height:1.8em;
 }
 .effect-ruby {
@@ -433,7 +436,7 @@ h3.agileits-title,h2.agileits-title{
 /*-- //services --*/
 /*-- footer start here --*/
 .footer-agile {
-    padding: 4em 0 3em;
+    padding: 2.25em 0 3em;
     background:#191d22;
 		text-align:center;
 }
@@ -456,8 +459,8 @@ h3.agileits-title,h2.agileits-title{
     display: inline-block;
     margin: 1em 0 0;
 	font-size:1.25em;
-	padding-left: 1em;
-	padding-right: 1em;
+	padding-left: 2em;
+	padding-right: 2em;
 }
 .footer-grid  li a {
     color:#fff;
@@ -569,7 +572,7 @@ h3.agileits-title,h2.agileits-title{
 }
 /*-- about --*/
 .about-w3right {
-    padding: 0 3em;
+    padding: 0 2em;
 }
 .about h4 {
     font-size: 2em;
@@ -592,6 +595,7 @@ h3.agileits-title,h2.agileits-title{
 }
 .about-w3right img {
     width: 100%;
+		margin-top:4em;
 }
 /*-- button style --*/
 .button {
@@ -677,7 +681,7 @@ h3.agileits-title,h2.agileits-title{
 }
 .about-slid h4 {
     font-size: 3.8em;
-    color: #17b9ea;
+    color: #ffffff;
     letter-spacing: 10px;
     font-weight: 300;
     margin-bottom: 0.5em;
@@ -1603,6 +1607,9 @@ h2.typoh2{
 	.grid_3 {
 		margin-bottom: 0em;
 	}
+	.hidesmall{
+		display:none;
+	}
 }
 @media (max-width:640px){
 	h1, .h1, h2, .h2, h3, .h3 {
@@ -1637,6 +1644,9 @@ h2.typoh2{
 	}
 	.in-gp-tb {
 		padding-right: 1em;
+	}
+	.hidesmall{
+		display:none;
 	}
 }
 @media (max-width:480px){
@@ -1678,6 +1688,9 @@ h2.typoh2{
 	.icons .bs-glyphicons li {
 		width: 31%;
 	}
+	.hidesmall{
+		display:none;
+	}
 }
 @media (max-width: 320px){
 	.alert,ol.breadcrumb li, .grid_3 p,.well, ul.list-group li, li.list-group-item1,a.list-group-item {
@@ -1712,6 +1725,9 @@ h2.typoh2{
 	h3.icon-subheading {
 		font-size: 18px;
 		margin: 21px 0 12px;
+	}
+	.hidesmall{
+		display:none;
 	}
 }
 /*-- //pages --*/
