@@ -49,9 +49,9 @@ img{
 	font-size:1.2em;
 }
 #ddown-subhead{
-	color:#eaeaea;
+	color:rgba(255, 170, 51, .75);
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size:1.25em;
+	font-size:1.35em;
 	letter-spacing:2px;
 	text-align:center;
 }

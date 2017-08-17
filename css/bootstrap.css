@@ -5749,12 +5749,13 @@ button.close {
 .modal-open .modal {
   overflow-x: hidden;
   overflow-y: auto;
+  background-color:rgba(0,0,0,.5)
 }
 .modal-dialog {
   position: relative;
   width: auto;
   margin: 350px auto;
-  border:8px solid rgba(90, 195, 74, .8);
+  border:8px solid rgba(90, 195, 74, .65);
   border-radius:12px;
 }
 .modal-content {
