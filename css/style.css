@@ -17,6 +17,7 @@ body a{
 	-ms-transition: 0.5s all;
 	text-decoration:none;
 	outline:none;
+	color:#3699F3;
 }
 h1,h2,h3,h4,h5,h6{
 	margin:0;
@@ -42,11 +43,17 @@ img{
 .underlined{
 	text-decoration:underline;
 }
+.heavy{
+	font-weight:500;
+}
 .padding-bot-small{
 	padding-bottom:.4em;
 }
 .fontsize-larger{
 	font-size:1.2em;
+}
+.lightbg{
+	background-color:rgba(0,0,0,.4);
 }
 #ddown-subhead{
 	color:rgba(255, 170, 51, .75);
@@ -133,7 +140,7 @@ ul.nav.navbar {
 }
 .top-nav .open > .dropdown-menu {
     display: block;
-    background: rgba(0, 0, 0, 0.12);
+    background: rgba(0, 0, 0, 0.62);
     margin-top: 2.3em;
     left: -73%;
 		width:250px;
@@ -599,7 +606,7 @@ h3.agileits-title,h2.agileits-title{
     color: #17b9ea;
     line-height: 1.5em;
     letter-spacing: 8px;
-    font-weight: 300;
+    font-weight: 350;
 }
 .about-w3left p {
     margin-top:1.5em;
@@ -703,11 +710,11 @@ h3.agileits-title,h2.agileits-title{
     font-size: 3.8em;
     color: #ffffff;
     letter-spacing: 10px;
-    font-weight: 300;
+    font-weight: 350;
     margin-bottom: 0.5em;
 }
 .about-slid h5 {
-    font-size: 1.5em;
+    font-size: 1.75em;
     color: #FFF;
     letter-spacing: 5px;
     margin-bottom: 1em;
