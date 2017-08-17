@@ -36,6 +36,18 @@ body a:hover,body a:focus{
 img{
 	box-shadow: 5px 5px 6px 0px #D0D0E5;
 }
+.no-shadow{
+	box-shadow:none;
+}
+.underlined{
+	text-decoration:underline;
+}
+.padding-bot-small{
+	padding-bottom:.4em;
+}
+.fontsize-larger{
+	font-size:1.2em;
+}
 /*-- banner --*/
 .agileits-banner {
 	background:url(../images/1.jpg)no-repeat center 0px;
@@ -1610,6 +1622,9 @@ h2.typoh2{
 	.hidesmall{
 		display:none;
 	}
+	.about-w3right img {
+			margin-top:0;
+	}
 }
 @media (max-width:640px){
 	h1, .h1, h2, .h2, h3, .h3 {
@@ -1647,6 +1662,9 @@ h2.typoh2{
 	}
 	.hidesmall{
 		display:none;
+	}
+	.about-w3right img {
+			margin-top:0;
 	}
 }
 @media (max-width:480px){
@@ -1691,6 +1709,9 @@ h2.typoh2{
 	.hidesmall{
 		display:none;
 	}
+	.about-w3right img {
+			margin-top:0;
+	}
 }
 @media (max-width: 320px){
 	.alert,ol.breadcrumb li, .grid_3 p,.well, ul.list-group li, li.list-group-item1,a.list-group-item {
@@ -1728,6 +1749,9 @@ h2.typoh2{
 	}
 	.hidesmall{
 		display:none;
+	}
+	.about-w3right img {
+			margin-top:0;
 	}
 }
 /*-- //pages --*/
@@ -2152,7 +2176,7 @@ h3.agileits-title, h2.agileits-title {
     width: 82%;
 }
 .about-w3right {
-    padding: 0 12em;
+    padding: 0em;
     margin-bottom: 2em;
 }
 .about h4 {
@@ -2234,7 +2258,7 @@ h3.agileits-title, h2.agileits-title {
     font-size: 2.6em;
 }
 .about-w3right {
-    padding: 0 10em;
+    padding: 0em;
 }
 .team-row-agileinfo {
     width: 82%;
@@ -2313,7 +2337,7 @@ a.w3effct-agile.w3effct-agile-mdl {
     padding: 2em 0;
 }
 .about-w3right {
-    padding: 0 7em;
+    padding: 0em;
 }
 .team-row-agileinfo {
     width: 92%;
@@ -2412,7 +2436,7 @@ button.navbar-toggle {
     padding: 2.5em 0;
 }
 .about-w3right {
-    padding: 0 3em;
+    padding: 0em;
 }
 .about-slid h4 {
     font-size: 2.4em;
@@ -2647,7 +2671,7 @@ h3.agileits-title, h2.agileits-title {
     padding: 1.5em 2em;
 }
 .about-w3right {
-    padding: 0 1em;
+    padding: 0em;
 }
 .about h4 {
     font-size: 1.3em;
