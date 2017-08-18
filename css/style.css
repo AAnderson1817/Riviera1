@@ -1910,7 +1910,7 @@ h3.agileits-title, h2.agileits-title {
     letter-spacing: 1px;
 }
 .features-right img {
-	width: 50%;
+	width: 90%;
     margin: 0 auto;
 }
 .features p.pagile-text {
@@ -2596,7 +2596,7 @@ p {
     margin: 0.8em 0;
 }
 .features-right img {
-    width: 70%;
+    width: 90%;
 }
 .services-w3ls-left,.services-w3ls-row.agileits-w3layouts {
     padding: 0;
