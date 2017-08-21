@@ -38,23 +38,30 @@ img{
 	box-shadow: 5px 5px 6px 0px #D0D0E5;
 }
 .no-shadow{
-	box-shadow:none;
+	box-shadow: none;
 }
 .underlined{
-	text-decoration:underline;
+	text-decoration: underline;
 }
 .heavy{
 	font-weight:500;
 }
 .padding-bot-small{
-	padding-bottom:.4em;
+	padding-bottom: .4em;
+}
+.padding-right-tiny{
+	padding-right: .3em;
+}
+.padding-left-tiny{
+	padding-left: .3em;
 }
 .fontsize-larger{
-	font-size:1.2em;
+	font-size: 1.2em;
 }
 .lightbg{
-	background-color:rgba(0,0,0,.4);
+	background-color: rgba(0,0,0,.4);
 }
+.
 #ddown-subhead{
 	color:rgba(255, 170, 51, .75);
 	font-family: 'Yanone Kaffeesatz', sans-serif;
