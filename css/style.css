@@ -199,7 +199,7 @@ ul.nav.navbar {
     list-style: none;
     overflow: hidden;
 }
-.banner-w3text h2{
+.banner-w3text #vertical-ticker li ,.banner-w3text h2{
     display: block;
     color: #fff;
     text-align: center;
