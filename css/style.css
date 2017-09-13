@@ -146,7 +146,9 @@ ul.nav.navbar {
 		width:250px;
 }
 .top-nav .open > .dropdown-menu li {
-    margin: 0;
+	color: #fff;
+	text-align:center;
+  margin: 0;
 	display: block;
 	overflow:hidden;
 }
@@ -157,6 +159,15 @@ ul.nav.navbar {
     padding: 0.5em 1em;
     text-align: center;
     letter-spacing: 2px;
+}
+.top-nav .open > .dropdown-menu > ul a {
+	display:block;
+	font-size:.9em;
+	text-align:center;
+	color: #b4b4b4;
+}
+.top-nav .nav .open > .dropdown-menu > ul > a:hover{
+	color: orange;
 }
 .top-nav .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
     color: #5ac34a;
