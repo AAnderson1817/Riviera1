@@ -166,9 +166,6 @@ ul.nav.navbar {
 	text-align:center;
 	color: #b4b4b4;
 }
-.top-nav .nav .open > .dropdown-menu > ul > a:hover{
-	color: orange;
-}
 .top-nav .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
     color: #5ac34a;
     border: none;
@@ -2822,3 +2819,6 @@ h3.agileits-title, h2.agileits-title {
 /*-- //responsive-design --*/
 
 /* BEM Reusable Helper Classes */
+.testimonial:hover{
+	color:orange;
+}
