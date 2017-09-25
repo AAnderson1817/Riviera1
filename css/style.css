@@ -55,6 +55,9 @@ img{
 .lightbg{
 	background-color:rgba(0,0,0,.4);
 }
+.centertext{
+	text-align:center;
+}
 #ddown-subhead{
 	color:rgba(255, 170, 51, .75);
 	font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -62,6 +65,7 @@ img{
 	letter-spacing:2px;
 	text-align:center;
 }
+
 /*-- banner --*/
 .agileits-banner {
 	background:url(../images/1.jpg)no-repeat center 0px;
@@ -419,7 +423,7 @@ h3.agileits-title,h2.agileits-title{
 /*-- //stats --*/
 /*-- services --*/
 .services h3.agileits-title {
-    text-align: left;
+    text-align: center;
 }
 .services-grid{
     text-align:center;
