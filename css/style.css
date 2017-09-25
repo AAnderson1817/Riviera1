@@ -184,24 +184,9 @@ ul.nav.navbar {
 .banner-w3text {
     text-align: center;
     padding: 19em 0;
-		-webkit-transition: all 1000ms linear;
-    -moz-transition: all 1000ms linear;
-    -ms-transition: all 1000ms linear;
-    -o-transition: all 1000ms linear;
-    transition: all 1000ms linear;
 }
-.banner-w3text.hidden {
-    -moz-opacity: 0;
-    opacity: 0;
-    -moz-transform: scale(0.01);
-    -webkit-transform: scale(0.01);
-    -o-transform: scale(0.01);
-    -ms-transform: scale(0.01);
-    transform: scale(0.01);
-}
-
 .banner-w3text #vertical-ticker {
-    height: 80px;
+    height: 100px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -211,8 +196,8 @@ ul.nav.navbar {
     display: block;
     color: #fff;
     text-align: center;
-    font-size: 7em;
-    font-weight: 100;
+    font-size: 5em;
+    font-weight: 150;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 	text-transform: capitalize;
 }
@@ -1890,7 +1875,7 @@ h3.agileits-title, h2.agileits-title {
     font-size: 1.3em;
 }
 .banner-w3text #vertical-ticker li, .banner-w3text h2 {
-    font-size: 4em;
+    font-size: 5em;
 }
 .w3ls-bnr-icons.social-icon {
     margin-top: 2em;
@@ -2072,10 +2057,10 @@ ul.nav.navbar {
     padding: 1.3em 0 0.8em;
 }
 .banner-w3text #vertical-ticker li{
-    font-size: 3.5em;
+    font-size: 4em;
 }
 .banner-w3text #vertical-ticker {
-    height: 66px !important;
+    height: 72px !important;
 }
 .banner-w3text {
     padding: 10em 0;
@@ -2103,7 +2088,7 @@ a.w3effct-agile.w3effct-agile-mdl {
 }
 @media(max-width:768px){
 .banner-w3text #vertical-ticker {
-    height: 59px !important;
+    height: 72px !important;
 }
 .effect-ruby p {
     padding: .3em 0.8em;
@@ -2418,7 +2403,7 @@ button.navbar-toggle {
     font-size: 0.9em;
 }
 .banner-w3text #vertical-ticker {
-    height: 46px !important;
+    height: 52px !important;
 }
 .w3ls-bnr-icons.social-icon {
     margin-top: 1.5em;
@@ -2746,7 +2731,7 @@ button.navbar-toggle {
     font-size: 2em;
 }
 .banner-w3text #vertical-ticker {
-    height: 39px !important;
+    height: 45px !important;
 }
 .social-icon a {
     font-size: 0.85em;
