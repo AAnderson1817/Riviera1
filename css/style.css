@@ -55,9 +55,6 @@ img{
 .lightbg{
 	background-color:rgba(0,0,0,.4);
 }
-.centertext{
-	text-align:center;
-}
 #ddown-subhead{
 	color:rgba(255, 170, 51, .75);
 	font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -1941,6 +1938,9 @@ h3.agileits-title, h2.agileits-title {
 }
 .services-grid.srvs-wthree-mdl, .services-grid {
     margin: 3em 0 0;
+}
+.demographic-text{
+	text-align:center;
 }
 .footer-grid {
     padding: 0 .5em;
