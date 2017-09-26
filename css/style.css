@@ -310,7 +310,6 @@ p{
 .effect-ruby p {
     color: #fff;
     margin-top: 1em;
-    padding: 0.5em;
     border: 1px solid #fff;
     opacity: 0;
     -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
