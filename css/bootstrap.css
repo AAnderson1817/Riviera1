@@ -5755,6 +5755,7 @@ button.close {
   position: relative;
   width: 75%;
   margin: auto;
+  margin-top:20%;
   border:8px solid rgba(90, 195, 74, .65);
   border-radius:12px;
 }
@@ -5829,7 +5830,7 @@ button.close {
 }
 @media (min-width: 768px) {
   .modal-dialog {
-    width: 75%;
+    width: 35%;
     margin: 30px auto;
   }
   .modal-content {
