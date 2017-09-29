@@ -16,14 +16,11 @@ module.exports = function(grunt) {
             }
         },
         cssmin: {
-            options: {
-                sourceMap: true
-            },
             target: {
               files: [{
                 expand: true,
                 cwd: 'css/',
-                src: ['*.css', '!*.min.css'],
+                src: ['style.css', '!*.min.css'],
                 dest: 'css/',
                 ext: '.min.css'
               }]
