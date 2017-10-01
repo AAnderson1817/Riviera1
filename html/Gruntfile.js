@@ -6,26 +6,11 @@ module.exports = function(grunt) {
                 files: ['images-src/*.jpg'],
                 tasks: ['tinypng']
             },
-            cssmin: {
-                files: ['css/*.css', '!style.min.css'],
-                task: ['cssmin']
-            },
             uglify: {
-                files: ['js/*.js', '!assets/js/built.min.js'],
+                files: ['js-src/*.js'],
                 tasks: ['uglify']
             }
         },
-        cssmin: {
-            target: {
-              files: [{
-                expand: true,
-                cwd: 'css/',
-                src: ['style.css', '!*.min.css'],
-                dest: 'css/',
-                ext: '.min.css'
-              }]
-            }
-          },
         tinypng: {
             options: {
                 apiKey: 'xTu7SaKDKg4kvslEkohp8GKQFrWUzKlQ',
@@ -50,7 +35,7 @@ module.exports = function(grunt) {
               },
             my_target: {
               files: {
-                'js/built.min.js': ['js/*.js', '!assets/js/built.min.js']
+                'js/built.min.js': ['js-src/*.js']
               }
             }
           }
