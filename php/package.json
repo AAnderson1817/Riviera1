@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "node deploy"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,9 @@
   "dependencies": {
     "clean-css": "^4.1.9",
     "css-min": "^1.0.0",
+    "dotenv": "^5.0.0",
+    "ftp-deploy": "^1.2.2",
+    "ftp-deploy-log": "^1.2.71",
     "grunt": "^1.0.1",
     "grunt-contrib-cssmin": "^2.2.1",
     "grunt-contrib-uglify": "^3.1.0",

@@ -14,7 +14,7 @@
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<div class="w3menu navbar-right">
 				<ul class="nav navbar">
-					<li><a href="./index.php" class="<?php if($page == 'index.php'){echo 'active';} ?>">Home</a></li>
+					<li><a href="./" class="<?php if($page == 'index.php'){echo 'active';} ?>">Home</a></li>
 					<li><a href="./about.php" class="<?php if($page == 'about.php'){echo 'active';} ?>">About</a></li>
 					<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-letters="Pages">Publications</span><span class="caret"></span></a>
 						<ul class="dropdown-menu">
