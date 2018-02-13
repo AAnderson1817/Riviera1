@@ -1,4 +1,4 @@
-var FtpDeploy = require('ftp-deploy'),
+var FtpDeploy = require('ftp-deploy-log'),
 ftpDeploy = new FtpDeploy(),
 fs = require('fs'),
 dotenv = require('dotenv').config(),
@@ -13,7 +13,8 @@ var config = {
     localRoot: __dirname,
     remoteRoot: "/",
     include: ['build/version.txt'],
-    exclude: excluded
+    exclude: excluded,
+    useLog: true
 }
     
 ftpDeploy.deploy(config, function(err) {
