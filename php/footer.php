@@ -4,8 +4,8 @@
 			<div class="footer-btm-agileinfo">
 				<div class="col-md-12 col-xs-12 footer-grid w3social">
 					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
+						<li><a href="/">Home</a></li>
+						<li><a href="about.php">About</a></li>
 						<li><a href="#" data-toggle="modal" data-target="#basicModal">Contact Us</a></li>
 					</ul>
 					<div class="copy-w3lsright">
