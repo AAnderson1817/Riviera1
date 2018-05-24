@@ -44,12 +44,18 @@
               </ul>
 
 							<li>
-              
                 <a href="http://www.webpublished.com/gallery/view.asp?seq=316997&path=180216043948">OC Senior's Directory</a>
               </li>
 
               <ul>
                 <a class="testimonial" href="#" data-toggle="modal" data-target="#OCSeniorModal">Testimonials</a>
+              </ul>
+							<li>
+                <a href="">Laguna Festival Guide</a>
+              </li>
+
+              <ul>
+                <a class="testimonial" href="#" data-toggle="modal" data-target="#OCLagunaFestival">Testimonials</a>
               </ul>
 
 							<!-- <li>

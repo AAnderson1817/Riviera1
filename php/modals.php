@@ -186,19 +186,65 @@
 			</div>
 	</div>
 </div>
-<div class="modal fade" id="testiModial" tabindex="-1" role="dialog" aria-labelledby="testiModial" aria-hidden="true">
+<div class="modal fade" id="OCLagunaFestival" tabindex="-1" role="dialog" aria-labelledby="OCLagunaFestival" aria-hidden="true">
 	<div class="modal-dialog">
 			<div class="modal-content">
 					<div class="modal-header">
 							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-							<h2 class="modal-title" id="myModalLabel">Testimonials</h2>
+							<h2 class="modal-title" id="myModalLabel">Laguna Festival Guide</h2>
 					</div>
 					<div class="modal-body">
-							<h1 class="underlined padding-bot-small fontsize-larger">
-								Publication Here
-							</h1>
-							<br>
-							<h2>"Wonderful. What a magnanimous display!"</h2>
+          <h1 class="underlined padding-bot-small fontsize-larger">
+            Marketing coordinator- Art-A-Faire
+          </h1>
+          <p>
+          “We love the Laguna Beach Summer Festival Guide, and our guests love them! They fly out of here! We
+          will take as many as you can give us!”
+          </p>
+
+          <h1 class="underlined padding-bot-small fontsize-larger">
+          Anne, Fresh Produce
+          </h1>
+          <p>
+          “We decided to place an ad when we noticed all these customers walking in with the map in their hand,
+          noting the tram stops, Forest Ave. landmarks etc., so we are happy to have an ad every year on the
+          map.”
+          </p>
+
+          <h1 class="underlined padding-bot-small fontsize-larger">
+          Sam, Royal Thai
+          </h1>
+          <p>
+          “I love seeing diners viewing the map while they are eating with us. The maps are very popular in the
+          summer time.”
+          </p>
+
+          <h1 class="underlined padding-bot-small fontsize-larger">
+          Susan, Twig
+          </h1>
+          <p>
+          “I use the map all year long for my winter clients and year-round clients as they need the map for
+          getting around Laguna. “
+          </p>
+
+          <h1 class="underlined padding-bot-small fontsize-larger">
+          Laguna Chamber of Commerce
+          </h1>
+          <p>
+          “We would like to use the map all year long for the people walking into the Chamber of Commerce for
+          brochures, lodging, restaurants, things to do and see, and will always take enough to cover the full 12
+          months of the year to help show clients where things are in Laguna.”
+          </p>
+
+          <h1 class="underlined padding-bot-small fontsize-larger">
+          David- artist-Art-A-Faire
+          </h1>
+          <p>
+          “I decided to take a separate ad for myself, in addition to the ad that is for the Art-A-Faire, as I wanted
+          to showcase my booth separately.”
+          </p>
+
+					</div>
 					</div>
 			</div>
 	</div>
