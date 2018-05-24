@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "node deploy"
+    "deployProd": "node deploy",
+    "deployStaging": "node deploy-staging.js"
   },
   "repository": {
     "type": "git",
