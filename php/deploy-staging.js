@@ -1,10 +1,14 @@
 var FtpDeploy = require('ftp-deploy-log'),
 ftpDeploy = new FtpDeploy(),
 fs = require('fs'),
+path = require('path'),
 dotenv = require('dotenv').config(),
 excluded = fs.readFileSync('../.gitignore', 'utf8');
 excluded = excluded.split(/[\r\n]+/);
  
+var env = path.basename(__filename);
+env = env.split('.')[0];
+
 var config = {
     username: process.env.STAGEFTPUSER,
     password: process.env.STAGEFTPPASSWORD, // optional, prompted if none given 
@@ -15,7 +19,8 @@ var config = {
     include: ['build/version.txt'],
     exclude: excluded,
     useLog: true,
-    staging: true
+    staging: true, 
+    env: env
 }
     
 ftpDeploy.deploy(config, function(err) {
