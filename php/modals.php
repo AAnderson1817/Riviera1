@@ -25,11 +25,25 @@
 							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 							<h2 class="modal-title" id="myModalLabel">Laguna Neighborhood Directory</h2>
 					</div>
-					<div class="modal-body">
+          <div class="modal-body">
 							<h1 class="underlined padding-bot-small fontsize-larger">
-								Joe Schmoe
+								Cindy, Laguna Beach
 							</h1>
-							<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+							<p>
+								“I am a new restaurant and am not listed in your Neighborhood Directory. I have 	had so many friends and clients tell me to make sure and get listed in this directory because I am missing out on business.”
+							</p>
+							<h1 class="underlined padding-bot-small fontsize-larger">
+									DeVries Family, Orange City
+							</h1>
+							<p>
+								“We live in Orange City Iowa and spent two weeks in Laguna with our families and found your Neighborhood Directory so helpful! We found a church to attend, visited the Sawdust Festival, tried several restaurants we saw in there, and in general loved our visit, which was made easier by your guide.”
+							</p>
+							<h1 class="underlined padding-bot-small fontsize-larger">
+										Ron, Laguna Beach
+							</h1>
+							<p>
+								“I love the fact that the Neighborhood Directory is Laguna and only Laguna numbers. I throw out the phone books that arrive that have all of South Orange County- you can never find anything in Laguna and a lot of information is missing.”
+							</p>
 					</div>
 			</div>
 	</div>
@@ -42,11 +56,23 @@
 							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 							<h2 class="modal-title" id="myModalLabel">Laguna Resource Map</h2>
 					</div>
-					<div class="modal-body">
+          <div class="modal-body">
 							<h1 class="underlined padding-bot-small fontsize-larger">
-								Nancy Reagan
+								Este, Irvine
 							</h1>
-							<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+							<p>“When I met my loan officer in Laguna Woods for a meeting, he pulled out a copy of the map to help
+								show me where we were going. I want to advertise on the map that goes to all of Laguna Woods.”
+							</p>
+							<h1 class="underlined padding-bot-small fontsize-larger">
+								Janice, Laguna Woods
+							</h1>
+							<p>“We were at a cocktail party for a new neighbor and in walked another neighbor with the map to help her find where the party was. I was so happy that my ad was right there front and center for newcomers to Laguna Woods to see.”
+							</p>
+							<h1 class="underlined padding-bot-small fontsize-larger">
+								Butch, Laguna Hills
+							</h1>
+							<p>“I have had so many calls on how to get to my medical supply business since I advertised on the map. We recently relocated down the block, but having our ad updated with the new location on the map helped the transition tremendously.”
+							</p>
 					</div>
 			</div>
 	</div>
@@ -59,11 +85,11 @@
 							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 							<h2 class="modal-title" id="myModalLabel">OC Kid's Resource</h2>
 					</div>
-					<div class="modal-body">
+          <div class="modal-body">
 							<h1 class="underlined padding-bot-small fontsize-larger">
-								Kim Davidson
+								Dave, Laguna Niguel
 							</h1>
-							<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+							<p>"We had just moved to town and my wife and I were short on ideas for child care. Your guide was a convenient alternative to sorting through Google. I'm surprised how many local businesses don't have websites!" </p>
 					</div>
 			</div>
 	</div>
@@ -76,11 +102,19 @@
 							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 							<h2 class="modal-title" id="myModalLabel">OC Senior Directory</h2>
 					</div>
-					<div class="modal-body">
+          <div class="modal-body">
 							<h1 class="underlined padding-bot-small fontsize-larger">
-								Frank Lastrange
+								K. Shakman, Anaheim
 							</h1>
-							<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+							<p>“I have the 2008 issue and I still use it. I have 2 seniors that I live with and we really need the resources, could we get the 2017 issue?
+							</p>
+
+							<h1 class="underlined padding-bot-small fontsize-larger">
+								Randy, Laguna Beach
+							</h1>
+							<p>
+								“We researched the companies in the ‘Caregiving’ chapter and decided after several months, to use one of the companies we interviewed and liked. They were professional and we really liked the care manager. After hiring them for 24 hour care for my mom in Laguna Niguel, we then needed 24 hour care for my mother-in-law and used the same company for her in Pasadena. Your directory shortened the search and helped immensely! Thanks for this great directory!”
+							</p>
 					</div>
 			</div>
 	</div>
@@ -108,13 +142,11 @@
 			<div class="modal-content">
 					<div class="modal-header">
 							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-							<h2 class="modal-title" id="myModalLabel">San Diego Kid's Resource</h2>
+							<h2 class="modal-title" id="myModalLabel">Our Stories</h2>
 					</div>
 					<div class="modal-body">
-							<h1 class="underlined padding-bot-small fontsize-larger">
-								Buddy McFly
-							</h1>
-							<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+							<p>Locally owned and operated since 1989, Riviera Publications offers valuable resources and content for our niche-based specialty publications. We offer our readers and advertisers the benefits of being local, with relevant content, community resources that are craved by our readers, and advertisers getting the best bang for their buck with hyper-local targeting for the customers they serve.   All of our resources are updated annually and our publications offer “a pot of gold” to our readers in the form of content and valuable listings on the businesses and services that cater to their needs.   Our mission is to make life easier for our readers and to serve the local community.
+</p>
 					</div>
 			</div>
 	</div>
