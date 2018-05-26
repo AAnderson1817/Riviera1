@@ -145,8 +145,8 @@
 							<h2 class="modal-title" id="myModalLabel">Our Stories</h2>
 					</div>
 					<div class="modal-body">
-							<p>Locally owned and operated since 1989, Riviera Publications offers valuable resources and content for our niche-based specialty publications. We offer our readers and advertisers the benefits of being local, with relevant content, community resources that are craved by our readers, and advertisers getting the best bang for their buck with hyper-local targeting for the customers they serve.   All of our resources are updated annually and our publications offer “a pot of gold” to our readers in the form of content and valuable listings on the businesses and services that cater to their needs.   Our mission is to make life easier for our readers and to serve the local community.
-</p>
+							<p>Locally owned and operated since 1989, Riviera Publications offers valuable resources and content for our niche-based specialty publications. We offer our readers and advertisers the benefits of being local, with relevant content, community resources that are craved by our readers, and advertisers getting the best bang for their buck with hyper-local targeting for the customers they serve.   All of our resources are updated annually and our publications offer “a pot of gold” to our readers in the form of content and valuable listings on the businesses and services that cater to their needs.   Our mission is to make life easier for our readers, serve the local community, and deliver value to our advertising supporters.
+              </p>
 					</div>
 			</div>
 	</div>

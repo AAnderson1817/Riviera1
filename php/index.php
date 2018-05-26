@@ -29,7 +29,7 @@
 	</div>
 	<!-- //banner -->
 	<!-- welcome -->
-	<div class="welcome">
+	<!-- <div class="welcome">
 		<div class="container">
 			<div class="welcome-agileinfo">
 				<div class="col-xs-4 col-sm-4 welcome-w3lsgrids">
@@ -62,7 +62,7 @@
 				<div class="clearfix"> </div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- //welcome -->
 	<!-- features -->
 	<div class="features">
@@ -153,27 +153,27 @@
 			<div class="col-md-8 services-w3ls-row agileits-w3layouts">
 				<div class="col-md-6 col-xs-4 services-grid agileits-w3layouts">
 					<i class="fa fa-bookmark-o" aria-hidden="true"></i>
-					<h5>Icon</h5>
+					<h5>Families</h5>
 				</div>
 				<div class="col-md-6 col-xs-4 services-grid agileits-w3layouts">
 					<i class="fa fa-bookmark-o" aria-hidden="true"></i>
-					<h5>Icon</h5>
+					<h5>New Residents</h5>
 				</div>
 				<div class="col-md-6 col-xs-4 services-grid srvs-wthree-mdl agileits-w3layouts">
 					<i class="fa fa-bookmark-o" aria-hidden="true"></i>
-					<h5>Icon</h5>
+					<h5>Local Businesses</h5>
 				</div>
 				<div class="col-md-6 col-xs-4 services-grid srvs-wthree-mdl">
 					<i class="fa fa-bookmark-o" aria-hidden="true"></i>
-					<h5>Icon</h5>
+					<h5>Tourists</h5>
 				</div>
 				<div class="col-md-6 col-xs-4 services-grid agileits-w3layouts">
 					<i class="fa fa-bookmark-o" aria-hidden="true"></i>
-					<h5>Icon</h5>
+					<h5>Seniors</h5>
 				</div>
 				<div class="col-md-6 col-xs-4 services-grid bottom-grids">
 					<i class="fa fa-bookmark-o" aria-hidden="true"></i>
-					<h5>Icon</h5>
+					<h5>Neighbors</h5>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
