@@ -87,9 +87,39 @@
 					</div>
           <div class="modal-body">
 							<h1 class="underlined padding-bot-small fontsize-larger">
-								Dave, Laguna Niguel
+                Tom, Irvine
 							</h1>
-							<p>"We had just moved to town and my wife and I were short on ideas for child care. Your guide was a convenient alternative to sorting through Google. I'm surprised how many local businesses don't have websites!" </p>
+							<p>“We picked up your directory when my wife and I were
+                  turning to adoption to start our family. We found a local
+                  adoption agency listed in your publication that got us our
+                  beautiful boy. Thank you for publishing this important
+                  resource for families.”
+              </p>
+              <h1 class="underlined padding-bot-small fontsize-larger">
+                Patricia, Child Support Services
+							</h1>
+              <p>
+              “A few weeks ago our office in Orange received a bundle of
+              your Children’s resource directories. We would love more
+              copies for our additional offices. How do we do this?’
+              </p>
+              <h1 class="underlined padding-bot-small fontsize-larger">
+                Richard, SACT, Orange
+							</h1>
+              <p>“Can we get more of the “Children’s Directory” delivered
+              to our County Agency? The clinicians want more copies not
+              just for themselves, but for the “Autism” article under the
+              “Special Needs” chapter to give out to our many families that
+              could use this information.”</p>
+              <h1 class="underlined padding-bot-small fontsize-larger">
+                Yolanda, Laguna Niguel
+							</h1>
+              <p>“This publication saved my life. I have a special needs
+              daughter and have sought help for her from so many
+              resources and in one phone call, from your directory, I
+              was directed to the Regional Center, which answered our
+              prayers. My daughter has been helped immensely by their
+              support. Thank you Children’s Directory."</p>
 					</div>
 			</div>
 	</div>
