@@ -36,7 +36,7 @@
               </ul>
 
 							<li>
-                <a href="http://www.webpublished.com/gallery/view.asp?seq=310438&path=170829035804">OC Kid's Resource</a>
+                <a href="/oc-kids-resource.php">OC Kid's Resource</a>
               </li>
 
               <ul>

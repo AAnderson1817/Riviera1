@@ -1,5 +1,5 @@
 	<?php include 'header.php' ?>
-    <?php include 'modals.php' ?>
+  <?php include 'modals.php' ?>
 	<!-- banner -->
 	<div class="agileits-banner jarallax">
 		<div class="bnr-agileinfo">
@@ -11,16 +11,6 @@
 						<li><a class="testimonial" href="#" data-toggle="modal" data-target="#SDKidModal">Our Stories</a></li>
 						<li><a class="testimonial" href="#" data-toggle="modal" data-target="#OurCommunityModal">Our Community</a></li>
 					</ul>
-					<!-- Social Icons
-					<div class="w3ls-bnr-icons social-icon">
-
-						<a href="#" class="social-button twit"><i class="fa fa-twitter"></i></a>
-						<a href="#" class="social-button fb"><i class="fa fa-facebook"></i></a>
-						<a href="#" class="social-button ggl"><i class="fa fa-google-plus"></i></a>
-						<a href="#" class="social-button drbl"><i class="fa fa-dribbble"></i></a>
-						<a href="#" class="social-button be"><i class="fa fa-behance"></i></a>
-						<a href="#" class="social-button in"><i class="fa fa-linkedin"></i></a>
-					-->
 					</div>
 				</div>
 			</div>
