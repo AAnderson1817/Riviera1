@@ -2818,9 +2818,16 @@ h3.agileits-title, h2.agileits-title {
 
 .container {
   margin: 0 auto;
+  width: 1080px;
 }
 
 .banner-image {
   margin: 0 auto;
   display: block;
+}
+
+@media screen and (max-width: 480px){
+  .banner-image {
+    width: 100%;
+  }
 }
