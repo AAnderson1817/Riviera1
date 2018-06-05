@@ -2818,7 +2818,7 @@ h3.agileits-title, h2.agileits-title {
 
 .container {
   margin: 0 auto;
-  width: 1080px;
+  width: 1050px;
 }
 
 .banner-image {
@@ -2830,4 +2830,23 @@ h3.agileits-title, h2.agileits-title {
   .banner-image {
     width: 100%;
   }
+}
+
+.pub-container {
+  display: flex;
+}
+
+.banner-cont {
+  position: absolute;
+  display: flex;
+  height: 655px;
+  width: 510px;
+}
+
+.banner-image {
+  width: 50%;
+}
+
+.pub__image {
+  width: 100%;
 }
