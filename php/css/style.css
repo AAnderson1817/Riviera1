@@ -2838,13 +2838,12 @@ h3.agileits-title, h2.agileits-title {
 
 .banner-cont {
   position: absolute;
-  display: flex;
   height: 655px;
-  width: 510px;
+  width: 351px;
 }
 
 .banner-image {
-  width: 50%;
+  width: 155.5px;
 }
 
 .pub__image {

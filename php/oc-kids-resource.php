@@ -4,8 +4,8 @@
     <?php include 'navigation.php' ?>
       <div class="container pub-container">
         <div class="banner-cont">
-          <img src="/images/banners/flight2.png" alt="" class="banner-image">
-          <img src="/images/banners/flight2.png" alt="" class="banner-image">
+          <img src="/images/banners/oc-kids-banner-1.png" alt="" class="banner-image">
+          <img src="/images/banners/oc-kids-banner-2.png" alt="" class="banner-image">
         </div>
         <div id="flipbook">
           <?php 
@@ -34,22 +34,24 @@
   });
   function isPage1Showing(){
     var pages = $('.page-wrapper');
-    if(pages[0].style.display = "block"){
+    if(pages.children().first().offsetLeft == 0){
       console.log('page 1 is showing');
       return true;
+    } else {
+      return false;
     }
   }
   var originalFlipBookMarginLeft = $('#flipbook').css('margin-left');
-  setInterval(function(){
-    if(isPage1Showing){
-    $('#flipbook').css('margin-left', 0);
-    } else {
-      $('#flipbook').css('margin-left', originalFlipBookMarginLeft);
-    }
-  })
-
-  var clickElement = $('#flipbook').children().not('.page-wrapper').not('.shadow');
-  clickElement.on('click', function(){
-    console.log($(this))
-  })
+  var flipBookContainer = $('#flipbook');
+  // setInterval(function(){
+  //   if(isPage1Showing()){
+  //     // console.log('page 1');
+  //     flipBookContainer.css('margin-left', 0);
+  //     //flipBookContainer.css('width', '83%');
+  //   } else {
+  //     console.log('not page 1');
+  //     flipBookContainer.css('margin-left', originalFlipBookMarginLeft);
+  //     //flipBookContainer.css('width', '100%');
+  //   }
+  // })
 </script>
