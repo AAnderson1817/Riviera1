@@ -4,8 +4,8 @@
     <?php include 'navigation.php' ?>
       <div class="container pub-container">
         <div class="banner-cont">
-          <img src="/images/banners/oc-kids-banner-1.png" alt="" class="banner-image">
-          <img src="/images/banners/oc-kids-banner-2.png" alt="" class="banner-image">
+          <a href="http://www.flightdeck.com/"><img src="/images/banners/oc-kids-banner-1.png" alt="" class="banner-image"></a>
+          <a href="http://www.springscharterschools.org/"><img src="/images/banners/oc-kids-banner-2.png" alt="" class="banner-image"></a>
         </div>
         <div id="flipbook">
           <?php 
@@ -43,15 +43,9 @@
   }
   var originalFlipBookMarginLeft = $('#flipbook').css('margin-left');
   var flipBookContainer = $('#flipbook');
-  // setInterval(function(){
-  //   if(isPage1Showing()){
-  //     // console.log('page 1');
-  //     flipBookContainer.css('margin-left', 0);
-  //     //flipBookContainer.css('width', '83%');
-  //   } else {
-  //     console.log('not page 1');
-  //     flipBookContainer.css('margin-left', originalFlipBookMarginLeft);
-  //     //flipBookContainer.css('width', '100%');
-  //   }
-  // })
+  var originalFlipBookMarginLeft = flipBookContainer.css('margin-left');
+  var originalFlipBookWidth = flipBookContainer.css('width');
+  console.log(originalFlipBookMarginLeft, originalFlipBookWidth);
+  //flipBookContainer.css('width', '612px');
+  flipBookContainer.css('margin-left', '260px');
 </script>
