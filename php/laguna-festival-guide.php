@@ -4,12 +4,10 @@
     <?php include 'navigation.php' ?>
       <div class="container pub-container">
         <div class="banner-cont">
-          <a href="http://www.flightdeck.com/"><img src="/images/banners/oc-kids-banner-1.png" alt="" class="banner-image"></a>
-          <a href="http://www.springscharterschools.org/"><img src="/images/banners/oc-kids-banner-2.png" alt="" class="banner-image"></a>
         </div>
         <div id="flipbook">
           <?php 
-            $dir = './pubs/oc-kids-2019/pages';
+            $dir = './pubs/laguna-festival-guide-2019/pages';
             $files = array_slice(scandir($dir), 2);
             natsort($files);
             $files = array_values($files);
@@ -18,7 +16,7 @@
               $files = array_values($files);
             }
             for($i=0;$i<count($files);$i++){
-              echo '<div class="pub__page"><img class="pub__image" src="pubs/oc-kids-2019/pages/'. $files[$i] .'" alt=""></div>';
+              echo '<div class="pub__page"><img class="pub__image" src="pubs/laguna-festival-guide-2019/pages/'. $files[$i] .'" alt=""></div>';
             }
           ?>
         </div>
