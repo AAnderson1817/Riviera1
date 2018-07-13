@@ -51,7 +51,7 @@
                 <a class="testimonial" href="#" data-toggle="modal" data-target="#OCSeniorModal">Testimonials</a>
               </ul>
 							<li>
-                <a href="">Laguna Festival Guide</a>
+                <a href="/laguna-festival-guide.php">Laguna Festival Guide</a>
               </li>
 
               <ul>
