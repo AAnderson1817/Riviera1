@@ -9,7 +9,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="en">
 <head>
 <title>Riviera Publications</title>
-<meta name="viewport" content="width=1080, initial-scale=1">
+<!-- <meta name="viewport" content="width=1080, initial-scale=1"> -->
+<meta name="viewport" content="width=1080, user-scalable=yes"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Publications, California, Orange County, Magazine, Laguna Beach, Riviera, Laguna Niguel, Directory, Local, Elderly, Kids" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
