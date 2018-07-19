@@ -24,7 +24,7 @@
         </div>
       </div>
   </div>
-  <? include 'footer.php' ?>
+  <?php include 'footer.php' ?>
 <script src="js/turn.min.js"></script>
 <script>
   $("#flipbook").turn({
