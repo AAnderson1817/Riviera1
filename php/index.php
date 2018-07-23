@@ -1,4 +1,5 @@
-	<?php include 'header.php' ?>
+	<!-- maintained by garrettestrin.com -->
+  <?php include 'header.php' ?>
   <?php include 'modals.php' ?>
 	<!-- banner -->
 	<div class="agileits-banner jarallax">
