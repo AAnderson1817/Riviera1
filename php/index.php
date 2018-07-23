@@ -1,4 +1,3 @@
-	<!-- maintained by garrettestrin.com -->
   <?php include 'header.php' ?>
   <?php include 'modals.php' ?>
 	<!-- banner -->

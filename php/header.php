@@ -1,4 +1,5 @@
 <?php $page =  basename($_SERVER['PHP_SELF']); global $page; ?>
+<!-- maintained by garrettestrin.com -->
 <!--
 Author: W3layouts
 Author URL: http://w3layouts.com
