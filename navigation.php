@@ -21,7 +21,7 @@
 
 							<li id="ddown-subhead">Check Out Live Previews Below</li>
 							<li>
-                <a href="http://www.webpublished.com/gallery/view.asp?seq=299041&path=161216154504">Laguna Neighborhood Directory</a>
+                <a href="/laguna-neighborhood-directory.php">Laguna Neighborhood Directory</a>
               </li>
               <ul>
                 <a class="testimonial" href="#" data-toggle="modal" data-target="#LagunaNeighborhoodModal">Testimonials</a>
