@@ -6,7 +6,7 @@
 					<ul>
 						<li><a href="/">Home</a></li>
 						<li><a href="about.php">About</a></li>
-						<li><a href="#" data-toggle="modal" data-target="#basicModal">Contact Us</a></li>
+						<li><a href="#" data-toggle="modal" data-target="#ContactUsModal">Contact Us</a></li>
 					</ul>
 					<div class="copy-w3lsright">
 						<p>© 2017 Riviera Publications. All rights reserved</p>
