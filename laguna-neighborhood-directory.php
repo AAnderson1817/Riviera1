@@ -5,7 +5,7 @@
       <div class="container pub-container">
         <div id="flipbook">
           <?php 
-            $dir = './pubs/laguna-directory-2018/pages';
+            $dir = './pubs/laguna-directory-2019/pages';
             $files = array_slice(scandir($dir), 2);
             natsort($files);
             $files = array_values($files);
@@ -14,7 +14,7 @@
               $files = array_values($files);
             }
             for($i=0;$i<count($files);$i++){
-              echo '<div class="pub__page"><img class="pub__image" src="pubs/laguna-directory-2018/pages/'. $files[$i] .'" alt=""></div>';
+              echo '<div class="pub__page"><img class="pub__image" src="pubs/laguna-directory-2019/pages/'. $files[$i] .'" alt=""></div>';
             }
           ?>
         </div>
