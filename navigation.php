@@ -44,7 +44,7 @@
               </ul>
 
 							<li>
-                <a href="http://www.webpublished.com/gallery/view.asp?seq=316997&path=180216043948">OC Senior's Directory</a>
+                <a href="/oc-senior-resource-guide.php">OC Senior's Directory</a>
               </li>
 
               <ul>
