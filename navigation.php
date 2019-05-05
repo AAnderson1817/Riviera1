@@ -28,7 +28,7 @@
               </ul>
 
 							<li>
-                <a href="http://fbs.advantageinc.com/rivierapublishing/lagunawoods2018/">Laguna Resource Map</a>
+                <a href="http://fbs.advantageinc.com/rivierapublishing/lagunawoods2019/files/assets/basic-html/page-1.html">Laguna Resource Map</a>
               </li>
 
               <ul>
